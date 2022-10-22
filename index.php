@@ -9,3 +9,4 @@ while (J <= 75){
     echo "o Numero J vale: $J <br>";
 
 }
+dfsçklgfg
